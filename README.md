@@ -1,4 +1,4 @@
-# The-Rubik's-Cube
+# The-Cube
 
 Using proper cube notation, allows proper rotations of a Rubik's cube from any dimension starting at 2, going up to 7 (you can input more than one move at a time as well).
 Also has the ability to generate and apply legal WCA (World Cube Association) scrambles for cubes of the aforementioned dimensions.
